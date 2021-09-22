@@ -1,5 +1,6 @@
 package com.company;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class Main {
@@ -12,18 +13,18 @@ public class Main {
     }
 
     public static void func_six() {
-        int masQuantity = (int) Math.round(100 * Math.random()); //количество эл-тов в массиве(1-100)
+        Random masQuantity = new Random();
+        masQuantity.nextInt(100);
 
         int[] arrayRandom = new int[masQuantity] ;
 
-//        for (var i: arrayRandom) {
-//            int i = new Random();
-//        }
+        for (int i = 0; i < masQuantity; i++) {
+            arrayRandom[i] = (int) Math.round(100 * Math.random());
+        }
 
-        System.out.println("test");
 
         System.out.println(masQuantity);
-        System.out.println(arrayRandom);
+        System.out.println(Arrays.toString(arrayRandom));
 
     }
 
