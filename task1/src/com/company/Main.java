@@ -20,6 +20,8 @@ public class Main {
 //            int i = new Random();
 //        }
 
+        System.out.println("test");
+
         System.out.println(masQuantity);
         System.out.println(arrayRandom);
 
