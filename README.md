@@ -3,11 +3,11 @@ Java tasks solving from 3 university term.
 
 ### Tasks - completed - checked:
 
-- Task1 - completed -
-- Task2 - completed -
-- Task3 - completed -
-- Task4 - completed -
-- Task5 - completed -
+- Task1 - completed - checked
+- Task2 - completed - checked
+- Task3 - completed - checked
+- Task4 - completed - checked
+- Task5 - completed - checked
 - Task6 - 
 - Task7 - 
 - Task8 - 
