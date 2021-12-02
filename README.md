@@ -8,9 +8,9 @@ Java tasks solving from 3 university term.
 - Task3 - completed - checked
 - Task4 - completed - checked
 - Task5 - completed - checked
-- Task6 - 
-- Task7 - 
-- Task8 - 
+- Task6 - completed -
+- Task7 - completed -
+- Task8 - completed -
 - Task9 & Task10 - 
 - Task11 & Task12 - 
 - Task13 & Task14 - 
