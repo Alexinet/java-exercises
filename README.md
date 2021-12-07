@@ -22,5 +22,5 @@ Java tasks solving from 3 university term.
 - Task23 & Task24 - completed -
 - Task25 & Task26 - completed -
 - Task27 & Task28 - completed -
-- Task29 & Task30 - 
+- Task29 & Task30 - completed -
 - Task31 & Task32 -  
