@@ -17,8 +17,9 @@ Java tasks solving from 3 university term.
 - Task15 & Task16 - 
 - Task17 & Task18 - completed - checked
 - Task19 & Task20 - completed -
-- Task21 & Task22 - 
-- Task23 & Task24 - 
+- Task21 & Task22 (part 1)- completed -
+- Task21 & Task22 (part 2)- 
+- Task23 & Task24 -
 - Task25 & Task26 - 
 - Task27 & Task28 - 
 - Task29 & Task30 - 
