@@ -8,10 +8,10 @@ Java tasks solving from 3 university term.
 - Task3 - completed - checked
 - Task4 - completed - checked
 - Task5 - completed - checked
-- Task6 - completed -
-- Task7 - completed -
-- Task8 - completed -
-- Task9 & Task10 - 
+- Task6 - completed - checked
+- Task7 - completed - checked
+- Task8 - completed - checked
+- Task9 & Task10 - completed -
 - Task11 & Task12 - 
 - Task13 & Task14 - 
 - Task15 & Task16 - 
