@@ -19,7 +19,7 @@ Java tasks solving from 3 university term.
 - Task19 & Task20 - completed -
 - Task21 & Task22 (part 1)- completed -
 - Task21 & Task22 (part 2)- 
-- Task23 & Task24 -
+- Task23 & Task24 - completed -
 - Task25 & Task26 - 
 - Task27 & Task28 - 
 - Task29 & Task30 - 
